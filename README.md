@@ -8,6 +8,8 @@ Not only are model names not standardized, neither are parameter (or "key") name
 (...  for the most part - width/height are translated to "size".)
 
 
-Back when I used to buy synthesizers, I'd program patches to my liking, but rarely developed them from scratch. You'd get a keyboard, and use the built-in patches as a starting point. This is the starter patch library.
+Back when I used to buy synthesizers, I'd program patches to my liking, but rarely developed them from scratch. You'd get a keyboard, and use the built-in patches as a starting point. We need a starter patch library.
 
 I feel that a "presets" layer is crucial to making Image Generation accessible for new users, and more productive for advanced ones. We're all still mostly dealing with bare metal when there should be an abstraction layer, to mix metaphors.
+
+These presets are written as "sparse" json. We're not specifying every parameter, and relying on the parameters we don't specify to be "neutral". This may prove naïve. For instance, when trying a Basic Lightning preset, one may get poor results due to leftover settings from a previous image, such as clip_skip, or a stray lora. in that case it may be worth defining "neutral" with a base layer, which the preset rests upon.
