@@ -46,7 +46,6 @@
     "preserveOriginalAfterInpaint": true,
     "refinerStart": 0.85,
     "sampler": 0,
-    "seed": 1316122616,
     "seedMode": 2,
     "sharpness": 0,
     "shift": 1,
