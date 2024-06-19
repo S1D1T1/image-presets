@@ -15,17 +15,17 @@ Not only are model names not standardized, neither are parameter (or "key") name
 
 ## Possible Categories ##
 
-SD 1.5
-SDXL
-Turbo, Hyper, Lightning
-SVD
-Stable Cascade
-Genres - Photorealistic, Anime, etc.
-Built for Speed
+SD 1.5  
+SDXL  
+Turbo, Hyper, Lightning  
+SVD  
+Stable Cascade  
+Genres - Photorealistic, Anime, etc.  
+Built for Speed  
 
 
 ## Standardization ##
-A "standard prompt" could be used, or set of prompts, with set seed value for sample images. This would better isolate the characteristics of a given preset.
+A standard prompt could be used, or small set of prompts, with set seed value for sample images. This would better isolate the characteristics of a given preset.
 
 ## Contributing ##
 Sample images encouraged. Must include metadata.
