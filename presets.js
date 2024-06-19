@@ -77,6 +77,7 @@
     },
     {
         "name": "Juggernaut Fast",
+        "sample":"https://github.com/S1D1T1/image-presets/blob/main/samples/juggernaut-fast.png"
         "settings": {
             "guidance_scale": 1.4,
             "model": "Juggernaut XL v9 Lightning",
