@@ -11,3 +11,6 @@ Not only are model names not standardized, neither are parameter (or "key") name
 (...  for the most part - width/height are notated as "size".)
 
 These presets are written as "sparse" json. We're not specifying every parameter, and relying on the parameters we don't specify to be "neutral". This may prove naïve. For instance, when trying a Basic Lightning preset, one may get poor results due to leftover settings from a previous image, such as clip_skip, or a stray lora. in that case it may be worth defining "neutral" with a base layer, which the preset rests upon.
+
+# Contributing #
+[tbd]
