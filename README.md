@@ -30,4 +30,7 @@ A standard prompt could be used, or small set of prompts, with set seed value fo
 ## Contributing ##
 Sample images encouraged. Must include metadata.
 
-[tbd]
+[more info to come]
+
+## PromptWriter ##
+My [MacOS image Client](https://discord.gg/Xz3B2rcAnu) will ship with presets from this repo. 
