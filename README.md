@@ -25,7 +25,7 @@ Built for Speed
 
 
 ## Standardization ##
-A standard prompt could be used, or small set of prompts, with set seed value for sample images. This would better isolate the characteristics of a given preset.
+Sample Images could use a standard prompt, or small set of prompts, with set seed value. This would better illustrate the characteristics of a given preset.
 
 ## Contributing ##
 Sample images encouraged. Must include metadata.
