@@ -21,7 +21,8 @@ Turbo, Hyper, Lightning
 SVD  
 Stable Cascade  
 Genres - Photorealistic, Anime, etc.  
-Built for Speed  
+Built for Speed   
+(no categories to start. all content is in presets.js)
 
 
 ## Using a Preset ##
