@@ -5,7 +5,6 @@
   "clip_skip" : 1,
   "clip_weight" : 1,
   "controls" : [
-
   ],
   "crop_left" : 0,
   "crop_top" : 0,
@@ -27,7 +26,6 @@
   "image_guidance" : 1.5,
   "image_prior_steps" : 5,
   "loras" : [
-
   ],
   "mask_blur" : 1.5,
   "mask_blur_outset" : 0,
@@ -41,6 +39,7 @@
   "original_height" : 1024,
   "original_width" : 1024,
   "preserve_original_after_inpaint" : true,
+  "prompt":"the quick brown fox jumps over a lazy dog",
   "refiner_start" : 0.84999999999999998,
   "sampler" : "TCD",
   "seed" : 117001642,
