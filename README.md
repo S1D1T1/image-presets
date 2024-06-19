@@ -25,7 +25,7 @@ Built for Speed
 
 
 ## Using a Preset ##
-To select a preset from this library as a starting point ... additional tools may be needed : )
+To select a preset from this library as a starting point ... additional tools may be needed.  
 A quick way is to import a sample image, if your tool can read its metadata. Many tools have a way to paste in json parameters.
 
 ## Standardization ##
