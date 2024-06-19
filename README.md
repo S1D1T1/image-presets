@@ -27,7 +27,7 @@ Built for Speed
 
 ## Using a Preset ##
 A quick way is to import a sample image, if your tool can read its metadata. Many tools accept the json parameters listed in the presets.   
-Otherwise ... additional tools may be needed. And interesting tools are possible - such as a Draw Things script or a MacOS Shortcut that presents the user with a menu of starting points, based on these presets. If you write that tool, let me know how to make this data easy to import.
+Otherwise ... additional tools may be needed, and the possibilities are interesting - such as a Draw Things script or a MacOS Shortcut that shows a menu of starting points, based on these presets. If you write that tool, tell me how to make this data easy to import.
 
 
 ## Standardization ##
