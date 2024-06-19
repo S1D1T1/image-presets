@@ -1,5 +1,5 @@
 # image-presets
-Known, good-enough, starting settings for Image Generation
+Known, good-enough, starter settings for Image Generation
 
 Back when I played synthesizers, I'd program patches to my liking, but rarely developed them from scratch. You'd get a keyboard, and use the built-in patches as a starting point. We need a starter patch library.
 
