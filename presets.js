@@ -1,5 +1,23 @@
 [
     {
+        "name":"AlbedoBase XL",
+        "comment":"Balance between speed and quality",
+        "sample":"https://github.com/S1D1T1/image-presets/blob/main/samples/AlbedoBase-XL.png",
+        "settings":
+        {
+          "model" : "albedobasexl_v21_f16.ckpt",
+          "loras" : [
+            {
+              "file" : "tcd_sd_xl_base_1.0_lora_f16.ckpt",
+              "weight" : 1
+            }
+          ],
+          "sampler" : "TCD",
+          "steps" : 8,
+          "guidance_scale" : 1.1,
+        }           
+    },
+    {
         "name": "Lightning Basic",
         "settings": {
             "guidance_scale": 1.5,
