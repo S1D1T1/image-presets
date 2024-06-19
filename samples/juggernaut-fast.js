@@ -1,4 +1,4 @@
-{
+{ // full metadata for sample image
   "aesthetic_score" : 6,
   "batch_count" : 1,
   "batch_size" : 1,
