@@ -10,7 +10,6 @@ These presets are written as sparse json, not specifying every parameter, and re
 Settings which name particular models or loras will not generally work off the shelf. Not until there's better standardization of model and lora names, ways to negotiate close matches, and inquire on availability. Until then, expect image requests to fail, requiring manual correction of model names, for your own installation. Presets which depend on particular resources may optionally specify a URL for those resources.
 
 Not only are model names not standardized, neither are parameter names. This library is built around Draw Things' vocabulary.
-(...  for the most part - width/height are notated as "size".)
 
 
 ## Possible Categories ##
